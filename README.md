@@ -1,16 +1,16 @@
-Hello Programmers
+Hello Programmers,
 
 I have faced the problem of chaos in my hard disk and a messy of non organized files and folders;
 and it is known that the environment affects on the person’s productivity. 
 Since our works is done in the digital realm, so we must start from organizing ours Machine’s (PC or Laptops) hard disks. 
 
-In this repository I uploaded suggested folder structure to organize chaos in hard disk scpecially for developer.
+In this repository I uploaded suggested folder structure which described in "Folder structure.txt" and implemented in "RootFolder.zip" to organize chaos in hard disk scpecially for developer.
 
 Steps:
 
 1-	Clean out old and unnecessary files including redundant programs, old tutorial and repeated files and so on.
 
-2-	Choose a root folder for the structure carefully as you want (Home directory in linux or any drivers) and unzip the compressed file.
+2-	Choose a root folder for the structure carefully as you want (Home directory in linux or any drivers) and unzip  the compressed "RootFolder.zip".
 
 3-  Organize your files
 
