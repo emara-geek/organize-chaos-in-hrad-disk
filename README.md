@@ -25,7 +25,7 @@ Structure:
 
 RootFolder/
 
-***********************************************************************
+**
 RootFolder/Work/
 
 RootFolder/Work/Companies/
@@ -81,7 +81,7 @@ RootFolder/Work/Mine/Projects/Project 1/Sources/
 RootFolder/Work/Mine/Projects/Project 2/
 RootFolder/Work/Mine/Projects/Project 2/Documents/
 RootFolder/Work/Mine/Projects/Project 2/Sources/
-***********************************************************************
+**
 RootFolder/CS/                                                   CS "Computer Science"
 RootFolder/CS/Databases/
 RootFolder/CS/Databases/NOSQL/
@@ -217,7 +217,7 @@ RootFolder/CS/Topics/Neural Networks/Libraries & APIs/
 RootFolder/CS/Topics/Neural Networks/Resources/
 RootFolder/CS/Topics/Neural Networks/Resources/Books/
 RootFolder/CS/Topics/Neural Networks/Resources/Tutorials/
-***********************************************************************
+**
 RootFolder/Multimedia/
 
 RootFolder/Multimedia/Photos/
@@ -227,12 +227,12 @@ RootFolder/Multimedia/Videos/
 RootFolder/Multimedia/Videos/Animations/
 RootFolder/Multimedia/Videos/Documentaries/
 RootFolder/Multimedia/Videos/Films/
-***********************************************************************
+**
 RootFolder/Private/
 RootFolder/Private/Others/
 RootFolder/Private/Photos/
 RootFolder/Private/Videos/
-***********************************************************************
+**
 RootFolder/Programs & Utilities/
 RootFolder/Programs & Utilities/Antivirus/
 RootFolder/Programs & Utilities/Graphics/
@@ -240,7 +240,7 @@ RootFolder/Programs & Utilities/Internet/
 RootFolder/Programs & Utilities/Multimedia/
 RootFolder/Programs & Utilities/Office/
 RootFolder/Programs & Utilities/PDF/
-***********************************************************************
+**
 RootFolder/Science/
 
 RootFolder/Science/Math/
@@ -254,13 +254,13 @@ RootFolder/Science/Math/Discrete mathematics/
 RootFolder/Science/Math/Discrete mathematics/Resources/
 RootFolder/Science/Math/Discrete mathematics/Resources/Books/
 RootFolder/Science/Math/Discrete mathematics/Resources/Tutorials/
-***********************************************************************
+**
 RootFolder/Books/
 RootFolder/Books/History/
 RootFolder/Books/Literature/
 RootFolder/Books/Politics/
-***********************************************************************
+**
 RootFolder/Temp/  
-***********************************************************************
+**
                             
 
