@@ -1,7 +1,7 @@
 **Hello Programmers,**
 
 I have faced the problem of chaos in my hard disk and a messy of non organized files and folders and it is known that the environment affects on the person’s productivity. 
-Since our works is done in the digital realm, so we must start from organizing ours Machine’s (PC or Laptops) hard disks. 
+Since our works are done in the digital realm, so we must start from organizing ours Machine’s (PC or Laptops) hard disks. 
 
 In this repository I uploaded suggested folder structure which described in "Folder structure.txt" and implemented in "RootFolder.zip" to organize chaos in hard disk scpecially for developer.
 
